@@ -1,7 +1,7 @@
 package display
 
 /*
-#cgo LDFLAGS: -framework IOKit -framework ApplicationServices -fconstant-cfstrings
+#cgo LDFLAGS: -framework IOKit -framework ApplicationServices
 #include <CoreFoundation/CoreFoundation.h>
 #include <ApplicationServices/ApplicationServices.h>
 #include <IOKit/graphics/IOGraphicsLib.h>
