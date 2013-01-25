@@ -1,4 +1,4 @@
-package mac
+package display
 
 /*
 #cgo LDFLAGS: -framework IOKit -framework ApplicationServices -fconstant-cfstrings
