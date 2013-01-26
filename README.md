@@ -2,6 +2,14 @@
 
 A Go library to control displays for Mac
 
+## Installation
+
+```
+go get github.com/youpy/go-mac-display
+```
+
+## Synopsis
+
 ```go
 package main
 
